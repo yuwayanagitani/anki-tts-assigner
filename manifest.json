@@ -1,0 +1,17 @@
+{
+  "package": "474218374",
+  "name": "TTS Auto Assigner",
+  "mod": 0,
+  "min_point_version": 24,
+  "max_point_version": 24,
+  "author": "Yuwa",
+  "homepage": "https://ankiweb.net/shared/",
+  "description": "Automatically add TTS playback buttons to cards and read aloud all enabled fields in order. Includes GUI settings and automatic voice detection. Does not modify card templates.",
+  "tags": [
+    "TTS",
+    "audio",
+    "study",
+    "language-learning",
+    "accessibility"
+  ]
+}

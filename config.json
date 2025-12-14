@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+
+  "languages": [
+    "en-US",
+    "ja-JP"
+  ],
+
+  "voices": {
+    "en-US": [
+      "",
+      "Microsoft David",
+      "Microsoft Zira"
+    ],
+    "ja-JP": [
+      "",
+      "Microsoft Haruka",
+      "Microsoft Sayaka"
+    ]
+  },
+
+  "fieldSettings": {
+  }
+}
