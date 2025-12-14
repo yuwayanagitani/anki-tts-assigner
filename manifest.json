@@ -1,17 +1,20 @@
 {
-  "package": "474218374",
-  "name": "TTS Auto Assigner",
-  "mod": 0,
-  "min_point_version": 24,
-  "max_point_version": 24,
-  "author": "Yuwa",
-  "homepage": "https://ankiweb.net/shared/",
-  "description": "Automatically add TTS playback buttons to cards and read aloud all enabled fields in order. Includes GUI settings and automatic voice detection. Does not modify card templates.",
+  "name": "anki-tts-auto-assigner",
+  "version": "0.1.0",
+  "description": "Automatically reads aloud selected fields on your Anki cards — without modifying your card templates. Perfect for language learning, accessibility, listening practice, and bilingual study decks.",
+  "auther": "Yuwa Yanagitani",
+  "homepage": "https://github.com/yuwayanagitani/anki-tts-auto-assigner",
+  "license": "MIT",
+  "min_anki_version": "23.10.0",
+  "max_anki_version": null,
+  "requirements": [],
+  "entry_point": "__init__.py",
+  "config_file": "config.json",
   "tags": [
-    "TTS",
-    "audio",
-    "study",
-    "language-learning",
+    "anki",
+    "addon",
+    "tts",
     "accessibility"
-  ]
+  ],
+  "notes": ""
 }
